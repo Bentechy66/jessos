@@ -1,2 +1,2 @@
-# jessos
+# JessOS
 This is a terrible idea...
